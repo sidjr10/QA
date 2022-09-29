@@ -1,0 +1,9 @@
+main components of master node?
+what are the diffrent types of multiple container pods?
+adapter sidecar pattern?
+do know the concepts of namespces in kubernates?
+relation between docker and kubernates?
+self heALING in kubernates?
+what do you understand minikube?
+what is role of kube proxy?
+what is use of kubernates controller manager?
