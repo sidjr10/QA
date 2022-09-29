@@ -1,4 +1,5 @@
-main components of master node?
+what is demon?
+.main components of master node?
 what are the diffrent types of multiple container pods?
 adapter sidecar pattern?
 do know the concepts of namespces in kubernates?
@@ -7,3 +8,21 @@ self heALING in kubernates?
 what do you understand minikube?
 what is role of kube proxy?
 what is use of kubernates controller manager?
+what is kubernates etcd components?
+etcd programming language? golang
+what is the function of cluster IP?
+collection of rules that act as in entry point? ingress controller?
+hepster? any idea about container resource monitoring tool?
+what is diffrent between replica set and replication controller?
+two types of selecter?
+which of these allows filtering keys according the set of values?
+what is headless service? 
+how do you manage multiple kubernates cluster? rancher?
+monolith to microservices applkication migration process?
+consistent ways kubernates?facebook example?solution: through microservices based application?
+how do you the tent to nodes?
+monitoring of pods?
+prob in kubernates?
+what do you do securiries in kubernates? 
+diffrence between loadbalcer ip and external ip?
+
