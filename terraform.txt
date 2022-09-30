@@ -4,6 +4,14 @@ what do you do with state file ? location? name?
 what if we lost terraform state file?
 what are the major features? 
 explain terraform validate command?
-
-
- 
+life cycle in terraform?
+choose between terraform and Ansible?
+terraform destroy? example you have created 20 vms using terraform scripts, now you want to delete 1 vm? its possible via terraform destroy?explain?
+how do you preserve the key using terraform? method? 
+how do you handle secrets in terraform?
+terraform module ? root module, child module, public module
+what is remote backend in terraform? share the same statefile at the same time in team.
+multiple way to provide variable in terraform. how do we provide vaiable value in terraform runtime?
+what is remote graph in terraform? 
+what is tainted terraform resources?
+what is terraform state rollback?
