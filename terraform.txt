@@ -1,0 +1,9 @@
+which components are you created by using terraform? EC2, S3, API GATEWAY, VPC
+how to do changes in already created components using terraform?use terraform import command
+what do you do with state file ? location? name?
+what if we lost terraform state file?
+what are the major features? 
+explain terraform validate command?
+
+
+ 
